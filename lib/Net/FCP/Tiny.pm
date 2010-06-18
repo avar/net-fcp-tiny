@@ -66,7 +66,7 @@ Net:FCP::Tiny - A Tiny and incomplete interface to the Freenet Client Protocol (
 
 =head1 SYNOPSIS
 
-    use FPC::Tiny;
+    use Net::FPC::Tiny;
 
     my $fcp = Net::FCP::Tiny->new(
         name => 'Freenet Munin Plugin',
