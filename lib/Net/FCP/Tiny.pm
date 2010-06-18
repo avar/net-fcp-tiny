@@ -65,7 +65,7 @@ __END__
 
 =head1 NAME
 
-Net:FCP::Tiny - A Tiny and incomplete interface to the Freenet Client Protocol (FCPv2)
+Net::FCP::Tiny - A Tiny and incomplete interface to the Freenet Client Protocol (FCPv2)
 
 =head1 SYNOPSIS
 
