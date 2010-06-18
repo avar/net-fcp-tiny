@@ -18,6 +18,9 @@ sub new {
         Blocking => 1,
     );
 
+    # Couldn't connect
+    return unless $args{sock};
+
     my $self = bless \%args => $pkg;
 
     my $helo = $self->send_msg(<<'END');
