@@ -90,8 +90,9 @@ Client Protocol. It sets up a communication channel for you, and you
 can L<send messages|http://new-wiki.freenetproject.org/FCPv2> by
 copy/pasting examples from the FCPv2 docs.
 
-I wrote it for a munin plugin because L<Net::FCP> was ancient, and
-L<AnyEvent::FCP> hurt my brain.
+I wrote it for L<a munin
+plugin|http://github.com/avar/munin-plugin-freenet> because
+L<Net::FCP> was ancient, and L<AnyEvent::FCP> hurt my brain.
 
 =head1 AUTHOR
 
