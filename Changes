@@ -2,6 +2,8 @@ Revision history for Net::FCP::Tiny
 
 {{$NEXT}}
 
+0.03 2010-06-18 17:16:42
+
     - Net::FCP::Tiny in docs, not Net:FCP::Tiny
 
 0.02 2010-06-18 16:22:37
